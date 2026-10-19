@@ -1,6 +1,11 @@
 __pycache__/
-*.pyc
+*.py[cod]
+venv/
+.venv/
 .idea/
 .vscode/
-.venv/
-venv/
+.ipynb_checkpoints/
+Final_Summary.csv
+.DS_Store
+Thumbs.db
+*.log
